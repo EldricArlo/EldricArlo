@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h3>A passionate developer enthusiastic about Web Development and Open Source.</h3>
+  <h3>A passionate developer enthusiastic about Code Learning and Open Source.</h3>
 </div>
 
 ---
@@ -32,7 +32,7 @@
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldricarlo&langs_count=8&theme=dark&layout=compact" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldricarlo&langs_count=8&theme=dark" />
         </a>
       </td>
     </tr>
@@ -49,5 +49,4 @@
 </p>
 
 ---
-
 > *"All great deeds and all great thoughts have a ridiculous beginning." - Albert Camus / The Myth of Sisyphus*
