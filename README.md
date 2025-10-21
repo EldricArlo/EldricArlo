@@ -10,11 +10,8 @@
 
 ---
 
-<div align = "center">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EldricArlo&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldricArlo&layout=compact&theme=dark)
-
-</div>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldricarlo&layout=compact&langs_count=8&theme=dark"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EldricArlo&show_icons=true&theme=dark" alt="GitHub Stats" width="420"/>
+  &nbsp; &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldricArlo&layout=compact&theme=dark" alt="Top Languages" width="420"/>
+</p>
