@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EldricArlo&show_icons=true&theme=dark" alt="GitHub Stats" width="420"/>
+  <img width="430" src="https://github-readme-stats.vercel.app/api?username=eldricarlo&show_icons=true&theme=dark" alt="Eldricarlo's GitHub Stats"/>
   &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldricArlo&layout=compact&theme=dark" alt="Top Languages" width="420"/>
+  <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldricarlo&langs_count=8&theme=dark" alt="Eldricarlo's Top Languages"/>
 </p>
