@@ -28,12 +28,12 @@
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=eldricarlo&show_icons=true&theme=dark&rank_icon=github&hide=stars,prs,contribs" width="340" hight="450"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=eldricarlo&show_icons=true&theme=dark&rank_icon=github&hide=stars,prs,contribs" width="444"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldricarlo&langs_count=8&theme=dark" width="340" hight="450"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldricarlo&langs_count=8&theme=dark" width="340"/>
         </a>
       </td>
     </tr>
