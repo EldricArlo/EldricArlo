@@ -6,5 +6,5 @@
   <a>and that I can contribute a faint glimmer of light to the world.</a>
   <a>Becoming an excellent architect has always been my aspiration,</a>
   <a>and I hope you also become the person you strive to be.</a>
-
+</div>
   
