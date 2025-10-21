@@ -22,7 +22,9 @@
 ---
 -->
 
-### My GitHub Stats
+<div align="center">
+  <h2>My GitHub Stats</h2>
+</div>
 <div align="center">
   <table>
     <tr>
@@ -42,7 +44,9 @@
 
 ---
 
-### Connect with Me
+<div align="center">
+  <h2>Connect with Me</h2>
+</div>
 <p align="center">
   <a href="mailto:eldric520lol@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="mailto:eldric520@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
