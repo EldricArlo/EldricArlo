@@ -10,6 +10,12 @@
 
 ---
 
+<p align = "center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+---
+
 <p align="center">
   <img width="430" src="https://github-readme-stats.vercel.app/api?username=eldricarlo&show_icons=true&theme=dark" alt="Eldricarlo's GitHub Stats"/>
   &nbsp; &nbsp; &nbsp;
