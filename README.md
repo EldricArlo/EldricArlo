@@ -1,5 +1,5 @@
 <div align = "center">
-  <h1><strong>Hellooooooo bro!!!</strong></h1>
+  <h1 style = "border-bottom: none; font-family: Arial, sans-serif; font-size: 48px; color: red"><strong>Hellooooooo bro!!!</strong></h1>
 </div>
 
 <div align = "center">
