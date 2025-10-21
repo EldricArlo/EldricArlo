@@ -9,10 +9,11 @@
 
 ---
 
-<p align = "center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldricarlo)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=eldricarlo" />
+  </a>
+</div>
 
 ---
 
