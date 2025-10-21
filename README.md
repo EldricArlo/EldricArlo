@@ -14,11 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=eldricarlo" />
   </a>
 </div>
-
----
-
-<p align="center">
-  <img width="430" src="https://github-readme-stats.vercel.app/api?username=eldricarlo&show_icons=true&theme=dark" alt="Eldricarlo's GitHub Stats"/>
   &nbsp; &nbsp; &nbsp;
+<p align = "center">
   <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldricarlo&langs_count=8&theme=dark" alt="Eldricarlo's Top Languages"/>
 </p>
