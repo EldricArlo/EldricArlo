@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="border-bottom: none; font-family: Arial, sans-serif; font-size: 48px;">Hi there, I'm Eldricarlo! 👋</h1>
+  <h1 style="border-bottom: none; font-family: Arial, sans-serif; font-size: 48px;">Helloooooo There</h1>
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 ---
 -->
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 <div align="center">
   <table>
     <tr>
@@ -42,7 +42,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="mailto:eldric520lol@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="mailto:eldric520@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
