@@ -18,3 +18,7 @@
 <p align = "center">
   <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldricarlo&langs_count=8&theme=dark" alt="Eldricarlo's Top Languages"/>
 </p>
+
+---
+
+*" All great deeds and all great thoughts have a ridiculous beginning. " Albert Camus / Le Mythe de Sisyphe*
